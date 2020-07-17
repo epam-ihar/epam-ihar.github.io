@@ -1,7 +1,6 @@
 var CACHE_NAME = 'pwa-delivery-service';
 var urlsToCache = [
   '/',
-  '/completed'
 ];
 
 // Install a service worker
